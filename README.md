@@ -1,4 +1,9 @@
 # jeu-de-la-vie-avec-une-fractale
+
+salut,je m'appelle Aly kane ,j'ai 17ans et je participe au jeu concours pour l'integration du jeu de la vie 
+je passe le bacc en s2 et reve de devenir ingenieur en robotique , je tiens à préciser que je ne suis pas du tout développeur et j'ai beaucoup eu a utilise YouTube comme support 
+
+voici une presentation ci dessous de comment fonctionne mon code:
 Ce code utilise la bibliothèque Pygame pour simuler le "Jeu de la Vie" de Conway avec une représentation graphique simple et une fractale basique. Le "Jeu de la Vie" est un automate cellulaire, une simulation de cellules vivantes et mortes selon des règles spécifiques.
 Constantes
 GRID_SIZE: La taille des cellules dans la grille.
